@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcd27615-51fc-4610-9c47-9fefd439a895" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombok.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_1/threadcreation/daemonthread/DaemonThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_1/threadcreation/runnable/PrintInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_1/threadcreation/runnable/PrintRecords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_1/threadcreation/thread/ReadInventoryThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_1/threadcreation/thread/ThreadRunnableExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_2/polling/CheckResultsBusyWaiting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_2/polling/CheckResultsSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_3/threadpool/executors/CallableRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_3/threadpool/executors/CallableSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_3/threadpool/executors/ExecutorSingleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_3/threadpool/executors/FutureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_3/threadpool/executorservice/AddDataExecutorServiceCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_3/threadpool/executorservice/AwaitTerminationExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_3/threadpool/executorservice/CallableVsRunnableExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_3/threadpool/executorservice/CheckResultsExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_3/threadpool/executorservice/ZooInfoSingleThreadExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_3/threadpool/executorservice/scheduled/FixedRateAndFixedDelay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_3/threadpool/executorservice/scheduled/SimpleScheduleDelay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_4/synchronization/collection/ZooManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_4/synchronization/cyclicbarrier/LionPenManagerCyclicBarrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_4/synchronization/cyclicbarrier/LionPenManagerNoCyclicBarrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_4/synchronization/locks/CyclicBarrierApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_4/synchronization/locks/LocksApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_4/synchronization/locks/SemaphoreApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_4/synchronization/synchronizing/SheepManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_4/synchronization/volatiles/ThreadStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_4/synchronization/volatiles/ThreadStoppingWrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_6/parallelstream/StreamApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/java/com/endava/concurrency/_7/bonus/HotelRoomReservationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/resource/Concurrency 1.0.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/resource/pg103.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concurrency-examples/src/main/resource/pg104.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../documentation/1. version control system.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../documentation/10.+JUnit+Mocking.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../documentation/2. intellij.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../documentation/3. maven.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../documentation/4. java building blocks I.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../documentation/5. java building blocks II.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../documentation/6. collections.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../documentation/7. exceptions and exception handling.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../documentation/8. Java IO - NIO.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../documentation/9. concurrency.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/ex1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/src/Builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/src/Builder/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/src/DoubleRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/src/Ex1/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/src/Ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/src/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/src/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/src/SingleRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1/src/TripleRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitdemo/src/main/java/employees/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitdemo/src/main/java/employees/NameToys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitdemo/src/main/java/exceptions/ExceptionHandlerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/.idea/libraries/Maven__org_jmockit_jmockit_1_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/junit-examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/exceptions/NotificationServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/model/ActivityType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/model/ArchiveEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/model/FoodItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/model/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/model/SportsItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/services/CaloryDiaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/services/CaloryIntakeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/services/CaloryIntakeServiceWithDependencies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/services/NotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/main/java/com/endava/junit/services/Suits/MyFirstSuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/test/java/com/endava/junit/services/CaloryIntakeServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/test/java/com/endava/junit/services/FirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/test/java/com/endava/junit/services/categories/LongRunningCategories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/test/java/com/endava/junit/services/categories/SmokeCategories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-examples/src/test/java/com/endava/junit/services/categories/runners/CustomRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/RoomReservation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../RoomReservation/.idea/RoomReservation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RoomReservation/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__com_wix_wix_embedded_mysql_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__de_flapdoodle_embed_de_flapdoodle_embed_process_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../junit-examples/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__net_java_dev_jna_jna_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__org_apache_commons_commons_compress_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../junit-examples/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RoomReservation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoomReservation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RoomReservation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitdemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gitdemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitdemo/src/main/java/git/conflict/MyReservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gitdemo/src/main/java/git/conflict/MyReservation.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1187923172">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="40" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="40" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Reservation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Reservation.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="345" />
+    <option name="y" value="85" />
+    <option name="width" value="1240" />
+    <option name="height" value="670" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lombok" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lombok" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lombok" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lombok" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538470291129" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ex1/src/ex2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcd27615-51fc-4610-9c47-9fefd439a895" name="Default Changelist" comment="" />
+      <created>1538469565032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538469565032</updated>
+      <workItem from="1538469568925" duration="721000" />
+      <workItem from="1538470312969" duration="473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1194000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15771812" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Reservation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
